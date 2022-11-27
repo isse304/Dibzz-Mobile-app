@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "998991701958",
+    "project_id": "dibzz-47d45",
+    "storage_bucket": "dibzz-47d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998991701958:android:a84ca75f1bfa02ad7834c7",
+        "android_client_info": {
+          "package_name": "com.example.gui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998991701958-6a8ae3cbj53345goan4s9sdal3q6vulm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNcqRRQ7POvXHdUfXtxJ1WA7vDmLSLno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998991701958-6a8ae3cbj53345goan4s9sdal3q6vulm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998991701958-slk8l0av1rv90mp2cbnsrqrjahc23r47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
